@@ -14,7 +14,7 @@
   <img align="center" alt="Talles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Talles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Talles-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px; src ="https://media.discordapp.net/attachments/970832391583191070/970832484398944326/Tallez.png?width=736&height=664"" 
+  <img align="right" alt="Talles-Pic" height="150" style="border-radius:50px; src ="https://media.discordapp.net/attachments/970832391583191070/970832484398944326/Tallez.png?width=736&height=664"" 
 </div>
 
 ##
