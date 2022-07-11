@@ -16,6 +16,7 @@
   <img align="center" alt="Talles-JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Talles-PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Talles-SQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Talles-JAVA" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="right" alt="Talles-Pic" height="150" style="border-radius:50px;" 
        src ="https://media.discordapp.net/attachments/970832391583191070/970832484398944326/Tallez.png?width=950&height=664">
 </div>
