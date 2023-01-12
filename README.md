@@ -1,7 +1,7 @@
 ### Aoba!! Talles aqui
-
+<div>
 - 🌱 Estudando JavaScript,PHP.
-- 💼 Estagiario da ws.teia.tec.br 
+- 💼 Desenvolvedor WEB 
 
 </div>
 
