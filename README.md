@@ -1,7 +1,7 @@
 ### Aoba!! Talles aqui
 <div>
-- 🌱 Estudando JavaScript,PHP.
-- 💼 Desenvolvedor WEB 
+- 🌱 Laravel | Angular | PHP | JavaScript | MySQL.
+- 💼 Desenvolvedor WEB Full-stack
 
 </div>
 
